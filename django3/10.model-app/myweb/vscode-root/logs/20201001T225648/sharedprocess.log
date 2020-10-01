@@ -1,0 +1,6 @@
+[2020-10-01 22:56:52.574] [sharedprocess] [info] main {"machineId":"ac9c68a0380df157d21f9c2de793cd9d23baea9dd74e98dd2643e46fdff68d0d","windowId":2}
+[2020-10-01 22:56:52.768] [sharedprocess] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/petot/Documents/django-fundamentals/django3/10.model-app/myweb/vscode-root/User/snippets'
+[2020-10-01 22:56:53.748] [sharedprocess] [info] Deleted from disk dart-code.flutter /root/.vscode/extensions/dart-code.flutter-3.14.1
+[2020-10-01 22:56:53.756] [sharedprocess] [info] Deleted from disk dart-code.dart-code /root/.vscode/extensions/dart-code.dart-code-3.14.1
+[2020-10-01 22:56:54.126] [sharedprocess] [info] Deleted from disk ms-python.python /root/.vscode/extensions/ms-python.python-2020.9.111407
+[2020-10-01 22:57:32.659] [sharedprocess] [info] Starting to clean up unused language packs.

@@ -1,0 +1,21 @@
+[2020-10-01 22:34:44.852] [sharedprocess] [info] main {"machineId":"ac9c68a0380df157d21f9c2de793cd9d23baea9dd74e98dd2643e46fdff68d0d","windowId":2}
+[2020-10-01 22:34:44.992] [sharedprocess] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/petot/Documents/django-fundamentals/django3/9.model-database/vscode-root/User/snippets'
+[2020-10-01 22:34:48.756] [sharedprocess] [info] Installing extension: dart-code.dart-code
+[2020-10-01 22:34:48.757] [sharedprocess] [info] Installing extension: dart-code.flutter
+[2020-10-01 22:34:48.757] [sharedprocess] [info] Installing extension: ms-python.python
+[2020-10-01 22:34:49.877] [sharedprocess] [info] Downloaded extension: dart-code.flutter /home/petot/Documents/django-fundamentals/django3/9.model-database/vscode-root/CachedExtensionVSIXs/dart-code.flutter-3.15.0
+[2020-10-01 22:34:49.960] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.dart-code.flutter-3.15.0: dart-code.flutter
+[2020-10-01 22:34:49.960] [sharedprocess] [info] Renamed to /root/.vscode/extensions/dart-code.flutter-3.15.0
+[2020-10-01 22:34:49.961] [sharedprocess] [info] Installation completed. dart-code.flutter
+[2020-10-01 22:34:50.072] [sharedprocess] [info] Extensions installed successfully: dart-code.flutter
+[2020-10-01 22:35:11.787] [sharedprocess] [info] Downloaded extension: dart-code.dart-code /home/petot/Documents/django-fundamentals/django3/9.model-database/vscode-root/CachedExtensionVSIXs/dart-code.dart-code-3.15.0
+[2020-10-01 22:35:24.900] [sharedprocess] [info] Starting to clean up unused language packs.
+[2020-10-01 22:35:46.605] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.dart-code.dart-code-3.15.0: dart-code.dart-code
+[2020-10-01 22:35:46.606] [sharedprocess] [info] Renamed to /root/.vscode/extensions/dart-code.dart-code-3.15.0
+[2020-10-01 22:35:46.613] [sharedprocess] [info] Installation completed. dart-code.dart-code
+[2020-10-01 22:35:46.654] [sharedprocess] [info] Extensions installed successfully: dart-code.dart-code
+[2020-10-01 22:35:55.623] [sharedprocess] [info] Downloaded extension: ms-python.python /home/petot/Documents/django-fundamentals/django3/9.model-database/vscode-root/CachedExtensionVSIXs/ms-python.python-2020.9.112786
+[2020-10-01 22:36:04.470] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.ms-python.python-2020.9.112786: ms-python.python
+[2020-10-01 22:36:04.470] [sharedprocess] [info] Renamed to /root/.vscode/extensions/ms-python.python-2020.9.112786
+[2020-10-01 22:36:04.483] [sharedprocess] [info] Installation completed. ms-python.python
+[2020-10-01 22:36:04.517] [sharedprocess] [info] Extensions installed successfully: ms-python.python
